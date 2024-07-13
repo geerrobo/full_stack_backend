@@ -52,4 +52,5 @@ app.listen(5000, () => console.log("Server running on port 5000"));
 
 /**
  * 1. ออกแบบโครงสร้าง database ที่จะใช้ในโปรเจ็ค คร่าวๆ ใน schema.prisma
+ *
  */
