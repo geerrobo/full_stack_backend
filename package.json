@@ -1,0 +1,17 @@
+{
+  "name": "c_11_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.16.2",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
